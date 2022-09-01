@@ -1,0 +1,6 @@
+C:\Users\android\Desktop\ProjetoJuros\Investimento\BLinvestimento\bin\Debug\BLinvestimento.dll
+C:\Users\android\Desktop\ProjetoJuros\Investimento\BLinvestimento\bin\Debug\BLinvestimento.pdb
+C:\Users\android\Desktop\ProjetoJuros\Investimento\BLinvestimento\obj\Debug\BLinvestimento.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\ProjetoJuros\Investimento\BLinvestimento\obj\Debug\BLinvestimento.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\ProjetoJuros\Investimento\BLinvestimento\obj\Debug\BLinvestimento.dll
+C:\Users\android\Desktop\ProjetoJuros\Investimento\BLinvestimento\obj\Debug\BLinvestimento.pdb
